@@ -1,6 +1,6 @@
 using System;
 
-class As12
+class As13
 {
     static void Main(string[] args)
     {
@@ -9,48 +9,34 @@ class As12
 
 
         Console.WriteLine("Please write the day:");
-        if (!Int32.TryParse(Console.ReadLine(), out day))
+        if (!Int32.TryParse(Console.ReadLine(), out day) || day < 0 || day > 31)
         {
             Console.WriteLine("Input is incorrect");
             return;
         }
 
-        if (day < 0 || day > 31)
-        {
-            Console.WriteLine("Incorrect day format");
-            return;
-        }
-
         else
-            Console.WriteLine("Today is" + " " + day);
+            Console.WriteLine("Today's date is " + day);
 
         Console.WriteLine("Please write the month:");
-        if (!Int32.TryParse(Console.ReadLine(), out month))
+        if (!Int32.TryParse(Console.ReadLine(), out month) || month < 0 || month > 12)
         {
             Console.WriteLine("Input is incorrect");
             return;
         }
-        if (month < 0 || month > 12)
-        {
-            Console.WriteLine("Incorrect month format");
-            return;
-        }
+
         else
-            Console.WriteLine("Today is " + " " + month + " month");
+            Console.WriteLine("Today is month " + month);
 
         Console.WriteLine("Please write the year:");
-        if (!Int32.TryParse(Console.ReadLine(), out year))
+        if (!Int32.TryParse(Console.ReadLine(), out year) || year < 0)
         {
             Console.WriteLine("Input is incorrect");
             return;
         }
-        if (year < 0)
-        {
-            Console.WriteLine("Incorrect year format");
-            return;
-        }
+
         else
-            Console.WriteLine("The year is" + " " + year);
+            Console.WriteLine("The year is " + year);
 
         Console.WriteLine("Please select the date formatting: 1 - YYYY/MM/DD, 2- YYYY.MM.DD: ");
         if (!Int32.TryParse(Console.ReadLine(), out format))
@@ -64,7 +50,6 @@ class As12
         else if (format == 2)
             Console.WriteLine("Your date is " + year + "." + month + "." + day);
         else Console.WriteLine("Incorrect format type");
-
 
     }
 }
