@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace Arrays_2_Pract
 {
-    class Program
+    class Arr
     {
         static void Main(string[] args)
         {
@@ -19,6 +19,9 @@ namespace Arrays_2_Pract
 
                     Console.Write(array[i] + " ");
             }
+
+            Console.WriteLine(" ");
+
 
             // print out all odd numbers
 
@@ -53,8 +56,6 @@ namespace Arrays_2_Pract
             }
 
 
-
-
             for (int i = 0; i < array.Length; i++) // check if the array contains multiple elements with the same value
             {
                 for (int j = i + 1; j < array.Length; j++)
@@ -64,7 +65,6 @@ namespace Arrays_2_Pract
                 }
             }
 
-
             //Print out each second element.
 
 
@@ -72,6 +72,7 @@ namespace Arrays_2_Pract
             {
                 Console.Write(array[i] + " ");
             }
+            Console.WriteLine(" ");
 
             //Compute average value of the array.
             Double sum = 0;

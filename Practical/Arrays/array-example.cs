@@ -6,7 +6,11 @@ namespace Arrays_1_Pract
     {
         static void Main(string[] args)
         {
-        
+            // int[] myArr = { 5, 3, 7, 6, 2, 8 };
+            // for (int i = 0; i < myArr.Length; i++)
+            // {
+            //     Console.Write(myArr[i] + " ");
+            // }
 
             int[] myArray = null;
             int numberElements = 0;
@@ -33,12 +37,11 @@ namespace Arrays_1_Pract
 
             foreach (int element in myArray)
                 Console.Write(element + " ");
-            int var = 0;
-            while (var < myArr.Length)
-            {
-                Console.Write(myArr[var++] + " ");
-            }
+            // int var = 0;
+            // while (var < myArr.Length)
+            // {
+            //     Console.Write(myArr[var++] + " ");
+            // }
         }
     }
 }
-
