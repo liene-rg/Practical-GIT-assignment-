@@ -1,0 +1,16 @@
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\obj\Debug\net5.0\OOP assignment.csproj.AssemblyReference.cache
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\obj\Debug\net5.0\OOP assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\obj\Debug\net5.0\OOP assignment.AssemblyInfoInputs.cache
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\obj\Debug\net5.0\OOP assignment.AssemblyInfo.cs
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\obj\Debug\net5.0\OOP assignment.csproj.CoreCompileInputs.cache
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\bin\Debug\net5.0\OOP assignment.exe
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\bin\Debug\net5.0\OOP assignment.deps.json
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\bin\Debug\net5.0\OOP assignment.runtimeconfig.json
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\bin\Debug\net5.0\OOP assignment.runtimeconfig.dev.json
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\bin\Debug\net5.0\OOP assignment.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\bin\Debug\net5.0\ref\OOP assignment.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\bin\Debug\net5.0\OOP assignment.pdb
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\obj\Debug\net5.0\OOP assignment.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\obj\Debug\net5.0\ref\OOP assignment.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\obj\Debug\net5.0\OOP assignment.pdb
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\OOP assignment\obj\Debug\net5.0\OOP assignment.genruntimeconfig.cache
