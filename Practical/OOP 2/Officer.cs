@@ -37,15 +37,15 @@ namespace OOP_2
             return this.name;
         }
 
-        // public void setName(string name)
-        // {
-        //     this.name = name;
-        // }
-
-        public void setName(string newName)
+        public void setName(string name)
         {
-            this.name = newName;
+            this.name = name;
         }
+
+        // public void setName(string newName) // value of newName is assigned to this.name variable
+        // {
+        //     this.name = newName;
+        // }
         public string getSurname()
         {
             return this.surname;

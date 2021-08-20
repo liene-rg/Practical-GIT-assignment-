@@ -17,7 +17,7 @@ namespace OOP_2
         {
             ///No-argument constructor
         }
-        // public District(int numberOfOfficer)
+        // public District(int numberOfOfficer) // numberOfOfficer is the array size
         // {
         //     this.officersInDistrict = new Officer[numberOfOfficer];
         // }
@@ -70,14 +70,14 @@ namespace OOP_2
         public void addOfficerToDistrict(Officer officer)
         {
             this.officersInDistrict.Add(officer);
-            //     if (lastIndexOfficer == this.officersInTheDistrict.Length - 1)
+            //     if (lastIndexOfficer == this.officersInTheDistrict.Length - 1) // if the array is full (lastindex == num of elements)
             //     {
             //         Console.WriteLine("No more officers can be added");
             //         return;
             //     }
 
             //     lastIndexOfficer++;
-            //     this.officersInTheDistrict[lastIndexOfficer] = officer;
+            //     this.officersInTheDistrict[lastIndexOfficer] = officer; // adding officer to the array 
 
         }
 
@@ -85,17 +85,17 @@ namespace OOP_2
         {
             this.officersInDistrict.Remove(officer);
             //     // int position = -1;
-            //     // foreach (Officer officerInDistrict in officersInTheDistrict)
+            //     // foreach (Officer officerInDistrict in officersInTheDistrict) // if provided officer equals in array
             //     // {
-            //     //     position++;
+            //     //     position++; // start at -1 so this is position 0
             //     //     if (officerInDistrict == officer)
             //     //     {
-            //     //         if (position != this.officersInTheDistrict.Length - 1)
+            //     //         if (position != this.officersInTheDistrict.Length - 1) // if removing the element from the last position
             //     //             Array.Copy(officersInTheDistrict, position + 1,
             //     //              officersInTheDistrict, position, officersInTheDistrict.Length - position - 1);///shifting to right
 
-            //     //         this.officersInTheDistrict[this.lastIndexOfficer] = null;
-            //     //         this.lastIndexOfficer--;
+            //     //         this.officersInTheDistrict[this.lastIndexOfficer] = null; // last position empty
+            //     //         this.lastIndexOfficer--; // remove the last element
             //     //         return;
             //     //     }
             // }

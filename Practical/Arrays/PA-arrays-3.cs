@@ -67,6 +67,8 @@ class arr
             Console.WriteLine(array[i] / array.Length + " students with the grade " + (i + 1));
 
 
+
+
     }
 
 

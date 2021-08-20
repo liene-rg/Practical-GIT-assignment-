@@ -91,6 +91,7 @@ namespace OOP_2
             District99[6] = officer7;
 
 
+
             Console.WriteLine("There are " + Officer.getCountByLevel(1, District99) +
                 " officers with level 1 in District");
 
@@ -178,6 +179,7 @@ namespace OOP_2
 
             Console.WriteLine("The average level in District1 is " + district1.calculateAvgLevelInDistrict());
             Console.WriteLine("The average level in District2 is " + district2.calculateAvgLevelInDistrict());
+
 
         }
     }

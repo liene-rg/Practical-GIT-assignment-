@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace OOP_2
 {
@@ -9,7 +10,7 @@ namespace OOP_2
     {
         private int lawyerID, helpedInCrimesSolving;
 
-        private ArrayList lawyersList = new ArrayList();
+        protected ArrayList lawyersList = new ArrayList();
 
         //no argument constructor 
         public Lawyer()
@@ -61,6 +62,7 @@ namespace OOP_2
 
         }
 
-    }
 
+    }
 }
+

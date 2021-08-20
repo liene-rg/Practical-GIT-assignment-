@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Liene\\Desktop\\ASSIGNMENTS and PRACTICE\\Practical\\OOP assignment\\OOP assignment.csproj",
+      "projectUniqueName": "C:\\Users\\Liene\\Desktop\\ASSIGNMENTS and PRACTICE\\Practical\\OOP assignment Q3\\OOP assignment.csproj",
       "projectName": "OOP assignment",
-      "projectPath": "C:\\Users\\Liene\\Desktop\\ASSIGNMENTS and PRACTICE\\Practical\\OOP assignment\\OOP assignment.csproj",
+      "projectPath": "C:\\Users\\Liene\\Desktop\\ASSIGNMENTS and PRACTICE\\Practical\\OOP assignment Q3\\OOP assignment.csproj",
       "packagesPath": "C:\\Users\\Liene\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Liene\\Desktop\\ASSIGNMENTS and PRACTICE\\Practical\\OOP assignment\\obj\\",
+      "outputPath": "C:\\Users\\Liene\\Desktop\\ASSIGNMENTS and PRACTICE\\Practical\\OOP assignment Q3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Liene\\AppData\\Roaming\\NuGet\\NuGet.Config"
