@@ -1,0 +1,16 @@
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\bin\Debug\net5.0\DS asgm 2.exe
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\bin\Debug\net5.0\DS asgm 2.deps.json
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\bin\Debug\net5.0\DS asgm 2.runtimeconfig.json
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\bin\Debug\net5.0\DS asgm 2.runtimeconfig.dev.json
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\bin\Debug\net5.0\DS asgm 2.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\bin\Debug\net5.0\ref\DS asgm 2.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\bin\Debug\net5.0\DS asgm 2.pdb
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\obj\Debug\net5.0\DS asgm 2.csproj.AssemblyReference.cache
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\obj\Debug\net5.0\DS asgm 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\obj\Debug\net5.0\DS asgm 2.AssemblyInfoInputs.cache
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\obj\Debug\net5.0\DS asgm 2.AssemblyInfo.cs
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\obj\Debug\net5.0\DS asgm 2.csproj.CoreCompileInputs.cache
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\obj\Debug\net5.0\DS asgm 2.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\obj\Debug\net5.0\ref\DS asgm 2.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\obj\Debug\net5.0\DS asgm 2.pdb
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\DS asgm 2\obj\Debug\net5.0\DS asgm 2.genruntimeconfig.cache
