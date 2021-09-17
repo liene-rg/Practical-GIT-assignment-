@@ -1,0 +1,12 @@
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Databases\bin\Debug\netcoreapp2.1\Databases.deps.json
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Databases\bin\Debug\netcoreapp2.1\Databases.runtimeconfig.json
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Databases\bin\Debug\netcoreapp2.1\Databases.runtimeconfig.dev.json
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Databases\bin\Debug\netcoreapp2.1\Databases.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Databases\bin\Debug\netcoreapp2.1\Databases.pdb
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Databases\obj\Debug\netcoreapp2.1\Databases.csproj.AssemblyReference.cache
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Databases\obj\Debug\netcoreapp2.1\Databases.AssemblyInfoInputs.cache
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Databases\obj\Debug\netcoreapp2.1\Databases.AssemblyInfo.cs
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Databases\obj\Debug\netcoreapp2.1\Databases.csproj.CoreCompileInputs.cache
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Databases\obj\Debug\netcoreapp2.1\Databases.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Databases\obj\Debug\netcoreapp2.1\Databases.pdb
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Databases\obj\Debug\netcoreapp2.1\Databases.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\bin\Debug\net5.0\Data Structures Practical.exe
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\bin\Debug\net5.0\Data Structures Practical.deps.json
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\bin\Debug\net5.0\Data Structures Practical.runtimeconfig.json
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\bin\Debug\net5.0\Data Structures Practical.runtimeconfig.dev.json
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\bin\Debug\net5.0\Data Structures Practical.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\bin\Debug\net5.0\ref\Data Structures Practical.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\bin\Debug\net5.0\Data Structures Practical.pdb
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\obj\Debug\net5.0\Data Structures Practical.csproj.AssemblyReference.cache
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\obj\Debug\net5.0\Data Structures Practical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\obj\Debug\net5.0\Data Structures Practical.AssemblyInfoInputs.cache
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\obj\Debug\net5.0\Data Structures Practical.AssemblyInfo.cs
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\obj\Debug\net5.0\Data Structures Practical.csproj.CoreCompileInputs.cache
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\obj\Debug\net5.0\Data Structures Practical.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\obj\Debug\net5.0\ref\Data Structures Practical.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\obj\Debug\net5.0\Data Structures Practical.pdb
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Data Structures Practical\obj\Debug\net5.0\Data Structures Practical.genruntimeconfig.cache

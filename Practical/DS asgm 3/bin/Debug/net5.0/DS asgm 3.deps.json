@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DS asgm 3/1.0.0": {
+        "runtime": {
+          "DS asgm 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DS asgm 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

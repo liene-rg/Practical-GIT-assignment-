@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bjoeYj9KjktKhxR0cesSPEyCQh5QWBPORINxd0KJH6bJRaNBPyfjabjq70Tq8iDZRgHEp/aEOo6SP+jIfyuTrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Liene\\Desktop\\ASSIGNMENTS and PRACTICE\\Practical\\Databases\\Databases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Liene\\.nuget\\packages\\mysqlconnector\\1.3.11\\mysqlconnector.1.3.11.nupkg.sha512"
+  ],
+  "logs": []
+}

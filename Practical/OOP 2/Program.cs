@@ -169,7 +169,7 @@ namespace OOP_2
             Console.WriteLine(district1.calculateAvgLevelInDistrict());
 
 
-
+            
 
 
         }

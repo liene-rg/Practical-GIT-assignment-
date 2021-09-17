@@ -1,0 +1,16 @@
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\obj\Debug\net5.0\Abstract Classes and Interface.csproj.AssemblyReference.cache
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\obj\Debug\net5.0\Abstract Classes and Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\obj\Debug\net5.0\Abstract Classes and Interface.AssemblyInfoInputs.cache
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\obj\Debug\net5.0\Abstract Classes and Interface.AssemblyInfo.cs
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\obj\Debug\net5.0\Abstract Classes and Interface.csproj.CoreCompileInputs.cache
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\bin\Debug\net5.0\Abstract Classes and Interface.exe
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\bin\Debug\net5.0\Abstract Classes and Interface.deps.json
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\bin\Debug\net5.0\Abstract Classes and Interface.runtimeconfig.json
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\bin\Debug\net5.0\Abstract Classes and Interface.runtimeconfig.dev.json
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\bin\Debug\net5.0\Abstract Classes and Interface.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\bin\Debug\net5.0\ref\Abstract Classes and Interface.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\bin\Debug\net5.0\Abstract Classes and Interface.pdb
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\obj\Debug\net5.0\Abstract Classes and Interface.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\obj\Debug\net5.0\ref\Abstract Classes and Interface.dll
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\obj\Debug\net5.0\Abstract Classes and Interface.pdb
+C:\Users\Liene\Desktop\ASSIGNMENTS and PRACTICE\Practical\Abstract Classes and Interface\obj\Debug\net5.0\Abstract Classes and Interface.genruntimeconfig.cache
